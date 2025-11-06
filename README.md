@@ -4,8 +4,13 @@ Booking Volume Over Time: Tracking the number of stays per day and identifying p
 Day of Week Trends: Comparing booking counts between weekdays and weekends to inform staffing and promotional scheduling.
 Advance Booking Behavior: Analyzing how far in advance customers book their stays (e.g., the majority booking "Before 1 week").
 Loyalty Segmentation: Breaking down the Booking Count by Loyalty Level (Non-member, Iconic, Elite, etc.) and by Booking Source).
-🛠 Tools Used
-Data Source: Excel
-Visualization & Analysis: Microsoft Power BI Desktop
-Here is the image of the Hotel Bookings dashboard in PowerBI
 
+🛠 Tools Used
+
+Data Source: Excel
+
+Visualization & Analysis: Microsoft Power BI Desktop.
+
+Here is the image of the Hotel Bookings dashboard in PowerBI.
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1a76ae65-ad63-4949-aeb5-301885b5d0b2" />
